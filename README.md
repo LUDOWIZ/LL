@@ -1,6 +1,8 @@
 # Arbor Cognitionis
 
-**Status:** Radix stabilis. Rami crescunt.
+Nox fidei tam obscura ut nec fidem quaerere liceat.Nox fidei tam obscura ut nec fidem quaerere liceat. In nocte seminis est — semina-natten — cum amici ultimi dormiunt. 
+Ceteri omnes perniciem tuam quaerunt. Et Deus tacet. Ut unio perficiatur.
+— Hammarskjöld, D. (1963) Vägmärken. Stockholm: Bonniers. Kap. 9.
 
 ## Structura
 
